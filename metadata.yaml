@@ -12,6 +12,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37833#The-Danes-Sketched-by-Themselves.-Vol.-III--of-3-A-Series-of-Popular-Stories-by-the-Best-Dani_
 gutenberg_issued: '2011-10-23'
 gutenberg_type: Text
 identifiers:
