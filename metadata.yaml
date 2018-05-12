@@ -1,0 +1,35 @@
+_repo: The-Danes-Sketched-by-Themselves.-Vol.-III--of-3-A-Series-of-Popular-Stories-by-the-Best-Dani__37833
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bushby, Mrs. (Anna S.)
+    aliases:
+    - Bushby, Anne S.
+    - Bushby, Anna S.
+    gutenberg_agent_id: '32044'
+    url: http://www.gutenberg.org/2009/agents/32044
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2011-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37833'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Danish -- Translations into English'
+- !lcsh 'Fiction'
+- !lcc 'PT'
+tableOfContents: The fair prospect -- Death and his victims, by Adam Oehlschlœger
+  -- All Souls' Day, by B.S. Ingemann -- Lisette's castles in the air, by H.P. Holst
+  -- Twice sacrificed, by Carit Etlar -- Herr Sinclair, by E. Storm -- The aged rabbi,
+  by B.S. Ingemann -- The bankrupt, by Carl Bernhard -- The hereditary goblet, from
+  the Swedish of Uncle Adam -- The death ship, by B.S. Ingemann -- The brothers; or,
+  a good conscience -- Esben, by S.S. Blicher.
+title: "The Danes, Sketched by Themselves. Vol. 3 (of 3)\r\nA Series of Popular Stories\
+  \ by the Best Danish Authors"
+url: http://www.gutenberg.org/ebooks/37833
